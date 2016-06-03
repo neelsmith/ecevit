@@ -217,7 +217,7 @@ Hür. P. .
 
 ANTALYA
 
-Seçmen.-:
+Seçmen.:
 
 176.009
 Seçime katılanlar
@@ -435,7 +435,7 @@ TAKVİM
 Gün  D.    ■   6.48     Akjjam Öğle	(2.13     Vatsı
 ECZANELER
 Bankalar (10270) Bankalar Cad Çocvfe»ara?ı (17204)  Ç.BK. kar. Doğumevi (19339) Doğumevi ka. Çankaya  (2270!))  Meşrutiyet c. Atol  (:;i(î72)  Bahçrftevler. Ksen  (330M)  YeDtanabaUe HASTANE! ER
-N it-nüne	11753
+N itnüne	11753
 Gâlhane	25140
 Mevki	22981
 İşel S"?o~ta'an Hast	27583
@@ -452,8 +452,8 @@ Polis	12119
 Elektrik ânza	24846
 Su ânza	12915
 D.D.Y.  İstihbarat	10620
-D.DY. Bilet	M95S-10345
-Esenböğa Hv. Mey. Sant. 16129 Türk Hava Yol arı bilet 129C8 Sıhhî  imJat	11729-91
+D.DY. Bilet	M95S10345
+Esenböğa Hv. Mey. Sant. 16129 Türk Hava Yol arı bilet 129C8 Sıhhî  imJat	1172991
 SİNEMALAR
 BÜYÜK      (24075)      «Sonsuz
  
@@ -528,9 +528,9 @@ Hür.   P.
 Aşk» (L'Ombra). Martha Tören, Gianna Starla Canale. Seanslar I 1 - 16.15 - 1S.:',0 - 21,
 BEŞİNCİ (27014) «Son Hatıralar» (Last Time I Saw Paris», Elizabeih Taylor, Van Johnson, Renkli, Türkçe, Se anslar 14 - 16.15 - 18.30 - 21.
 T LFS (22291) «At'ı Karınca» (Carousel), Gordon Mac Rea. Shir'.ey Jones, Renkli. İngilizce, Seanslar: 14 - 16.15 -18.30 - 21.
-ANKARA (23Î32): «Canavar Tohumu» (The Bad Seed) Nancy Kelly, Patt Mc. Cor-ma?k. Seanslar: 14 - 16.15 -18.30  -  21.
+ANKARA (23Î32): «Canavar Tohumu» (The Bad Seed) Nancy Kelly, Patt Mc. Corma?k. Seanslar: 14 - 16.15 -18.30  -  21.
 GÖLBAŞI (22215): «Kanlı Ellen». Burt Lancesler. Joan Fontaine. Robert Nenton. Seanslar:   14 -  16.15  -  18.30  - 21.
-RENKLİ (32163) «Aşkım Sa na Feda» (Scandale a Miian), Martine Caroll, Viitorio Gass-m?.n. Fransızca. Seanslar 14 -16.15 -  18.30 - 21.
+RENKLİ (32163) «Aşkım Sa na Feda» (Scandale a Miian), Martine Caroll, Viitorio Gassm?.n. Fransızca. Seanslar 14 -16.15 -  18.30 - 21.
 ALEMDAR (55160) «Aşk Tu zağı» (Tender Trap), Renkl, Türkçe. Seanslar 14 - 18 - 22. «Cehennem Esirleri» (Prisoner ot War), Türkçe, Seanslar 16.15 - 20.30.
 SEYRAN (53923) «AlUn Kafes» Zeki Milren, Sezer Sezin. Sean lar 14 - 16.15 - 18.30 - 21.
 NUR (15807) «Duvak'ı Göl» Sezer Sezin. Semih Sergen. Seanslar: 11 - 10.15 - 18.30 - 21.
@@ -684,7 +684,7 @@ C.M.P.                          17.167	18.515
 ÜÇÜNCÜ   TİYATRODA
 Pazartesi,      Salı,      Çarşamba, Perşembe,     Cumartesi akşamları   20.30   da,   Pazar      günleri 15 ve 20.30 da HAFTABAŞI (Komedi 3 perde) Çarşamba   günleri      14.30   da, Pazar   günleri   11   da
 
-KÜÇÜK KOLOMBU8 Müzikli  piyes NOT: 1) Büyük Tiyatro'da Salı,   Küçük   ve   Oda   Tiyatrolarında  Pazartesi,   Üçüncü     Tiyatro'da   Cuma   günleri   hafta tatili   olduğundan   o   günlerde gişelerimiz kapalıdır. 2)     Aboneler için  izahat  Zafer  ve U-lus  gazetelerinin  sağ başlık 1-iıânındadır.   Abone   mevzuunda karşılaşılacak  müşküller  hususunda  müracaat 10674. Telefonla bilet:: Büyük Tiyatro       :    10438 Küçük Ti-atro      :    11169 Üçüncü Tivatro     :    15«09
+KÜÇÜK KOLOMBU8 Müzikli  piyes NOT: 1) Büyük Tiyatro'da Salı,   Küçük   ve   Oda   Tiyatrolarında  Pazartesi,   Üçüncü     Tiyatro'da   Cuma   günleri   hafta tatili   olduğundan   o   günlerde gişelerimiz kapalıdır. 2)     Aboneler için  izahat  Zafer  ve Ulus  gazetelerinin  sağ başlık 1iıânındadır.   Abone   mevzuunda karşılaşılacak  müşküller  hususunda  müracaat 10674. Telefonla bilet:: Büyük Tiyatro       :    10438 Küçük Tiatro      :    11169 Üçüncü Tivatro     :    15«09
 BESİNCİ TİYATRO
 Biı rn*imIMH de KÜÇÜK      DÜNYAMIZI
 ZİYARET
@@ -822,20 +822,20 @@ C.M.P.                      11.389	17.240
 Hür.P.	3.127 Bağımsız                      119
 Ödeneklerini alan Milletvekilleri
 (Bastarafı Sa. 1 de)
-«11/9/1957 günü intihabın yeni leBmcsine karar veren X. devre î^üyiîk Millet Meclisi âzSsinm pek çoğunun 958 mali yılı volini» ve ö-deneklemi de almış olduklarım ög renmis  bulunu yomun.
-Bunlardan yeniden infiıhan edil miyenlerden mezkûr yıla ait ödenek ve yolluğun tahsili ve tekrar sekenlere de ta seneye ait yolluk ve tahsisatın tekrar verilmemesi hususunda ne düşüuüldüirünün Yük ?e)k Reislikçe sözîü olnı-aftc cevaplan dırılmasını arzeclerim.»
+«11/9/1957 günü intihabın yeni leBmcsine karar veren X. devre î^üyiîk Millet Meclisi âzSsinm pek çoğunun 958 mali yılı volini» ve ödeneklemi de almış olduklarım ög renmis  bulunu yomun.
+Bunlardan yeniden infiıhan edil miyenlerden mezkûr yıla ait ödenek ve yolluğun tahsili ve tekrar sekenlere de ta seneye ait yolluk ve tahsisatın tekrar verilmemesi hususunda ne düşüuüldüirünün Yük ?e)k Reislikçe sözîü olnıaftc cevaplan dırılmasını arzeclerim.»
 Satılık   Daireler
-	•	— KavaMıd'eıVdo. Kızılay a-paıntmanında her türlü konforu haiz üilks bir daire uygun fiyatla satılıktır. Tel: 22670.
+	•	— KavaMıd'eıVdo. Kızılay apaıntmanında her türlü konforu haiz üilks bir daire uygun fiyatla satılıktır. Tel: 22670.
 	•	— Kavakflıdore. Posta Caddesinde konforlu büyük bir daire mo fcilyalı olarak, buz dolabı dahil 100 lıin lira. 25 bin uzun vSrl'eli banka borçlu Tel: 22670.
-S — Cebeci Konservatuva.r ya -nmd'a kaloriferli 3 oda bir hollü geniş biır daire 50 bin lira 25 hin ban-..-a borçlu. Tel: 22670.
+S — Cebeci Konservatuva.r ya -nmd'a kaloriferli 3 oda bir hollü geniş biır daire 50 bin lira 25 hin ban..a borçlu. Tel: 22670.
 4	—  Yenişehir. Maltepe'nin   en
-merkezî yeri olan fiülseron Soûak :a 5 er odalı. ç«k enniş da'-e'cr, 40 - 85 - 50 - 55 bin liraya satılmaktadır. Bu  fırsatı kaçırmaymız.
+merkezî yeri olan fiülseron Soûak :a 5 er odalı. ç«k enniş da'e'cr, 40 - 85 - 50 - 55 bin liraya satılmaktadır. Bu  fırsatı kaçırmaymız.
 5	— Bulvar Rmlâk bütün alım ve natıra îşterinfede güvenebileceğiniz Emlâk Bürosudur.
 Atatürk Bulvarı Soysal Han Kat 1 No. S Tel -. 22670.	(1696/474)
  (Bastarafı Sa. 1 de)
 076310 Numara 50.000 lira 251135 Numara 50.000 lira 454814 Numara  50.000 lira 472968 Numara  50.000 lira Yirmişerbin (20.000) lira ikramiye kazanan numaralar 008409 085727 119181 141404 17775lı 238057 262268 313538 345056 486468 Onarbin (10.000) lira ikramiye
 kazanan numaralar 065895 134982 150285 153249 166273 176174 180046 184086 199684 201882 226767 300170 305564 322799 368746 370003 380799 429917 474851 490654 Dörderbin (4.000) lira ikramiye
-kazanan numaralar 001674 009206 013568 018910 022590 022989 051378 059547 080109 089436 090469 099790 101184 119423 135755 145595 153172 156578 161656 164925 182000 187362 189986 190267 219082 22063ü 230940 233945 245415 256246 268118 283502 290300 295176 301382 305913 317143 326424 350456 353117 360294 376348 383807 385218 S92829 401425 440972 441051 486815 487866 İkiçerbin (2.000) lira ikramiye kazanan numaralar 000827 005202 006011 008258 022395 1)25581 038871 039253 044705 050327 053454 069211 076125 088941 100134 100450 105836 106245 109231 115948 120651 122401 124275 124611 125842 133643 131032 134362 155365 165198 166883 167702 171256 172968 177202 182158 183794 184833 194657 197827 208587 208867 210057 210205 210806 211945 212211 225332 225838 236191 244665 245350 251019 251230 26728? 280062 280948 284265 285921 285951 296308 297777 301245 305235 305-165 306170 308920 311569 317731 318090 321249 323995 327254 361651 361664 369251 377901 378138 380452 383671 388075 388699 391280 400090 406299 406948 422450 432104 441619 450600 450944 456094 463150 466897 472029 472835 478691 490141 493822 495630
+kazanan numaralar 001674 009206 013568 018910 022590 022989 051378 059547 080109 089436 090469 099790 101184 119423 135755 145595 153172 156578 161656 164925 182000 187362 189986 190267 219082 22063ü 230940 233945 245415 256246 268118 283502 290300 295176 301382 305913 317143 326424 350456 353117 360294 376348 383807 385218 S92829 401425 440972 441051 486815 487866 İkiçerbin (2.000) lira ikramiye kazanan numaralar 000827 005202 006011 008258 022395 1)25581 038871 039253 044705 050327 053454 069211 076125 088941 100134 100450 105836 106245 109231 115948 120651 122401 124275 124611 125842 133643 131032 134362 155365 165198 166883 167702 171256 172968 177202 182158 183794 184833 194657 197827 208587 208867 210057 210205 210806 211945 212211 225332 225838 236191 244665 245350 251019 251230 26728? 280062 280948 284265 285921 285951 296308 297777 301245 305235 305165 306170 308920 311569 317731 318090 321249 323995 327254 361651 361664 369251 377901 378138 380452 383671 388075 388699 391280 400090 406299 406948 422450 432104 441619 450600 450944 456094 463150 466897 472029 472835 478691 490141 493822 495630
 Biner (1.000) lira ikramiye kazanan numaralar
 000158 001586 004883 005542 010094 010440 015909 017769 023647 024265 025685 026850 031325 032610 033609 033791 034848 037272 038061 042488 049917 051316 053763 054026 054774 054778 057378 060911 067737 067870 069591 076748 080962 085128 08753ü 089102 092198 097537 098287 098414 098669 100702 103274 104656 108079 108140 110360 110416 111292 114998 118764 121085 121166 121512 127829 128336 132878 137346 138074 145031 151217 152748 153944 155274 157066 160746 163258 169416 177156 177854 183115 85808 186879 189479 198139 202462 205169 210123 210295 210505 815713 218345 219141 220409 221362 223398 223634 225007 225014 226339 228560 233750 237539 238733 243776 244175 244533 244842 246898 247204 249782 252089 252937 253265 259025 261570 265819 266451 268025 269103 270817 272226 274150 275578 276016 282431 284208 289040 292497 300954 306847 307119 310251 315860 315953 318047 318509 319513 321386 322244 323468 325399 328531 329108 329609 331154 333072 334546 334801 337010 343041 347240 350349 356201 356598 358404 364092 364101 371530 373900 374344 378683 382956 384852 386530 390130 390414 391668 392743 394908 396680 400226 403084 403374 404423 405157 408522 410971 410997 415848 420141 4.22049 422584 428383 428837 430092 436377 441986 448415 448897 450713 454851 455140 455731 456858 458740 458973 460116 467144 467774 471520 477504 481046 482830 490955 491401 493952 496511 498455 499211 Dörderyüz (400) lira ikramiye kazanan numaralar
 Son üç rakamı 034 elan 500 numara.
@@ -857,13 +857,13 @@ tnara;	anOOO ""
 Son  rakamı 9 olan »»•
 m ara.	,
 fesellî <»' İkiserbin (2.000) Ur»    wr kâfatı kazanan »"JJJV
-034441 104441 114441 1-* ^ 131441 132441 133441 1340* ^ 134241 134341 134401 13*» ^ 134431 134440 134442 134* ^ 134445 134446 134447 1344* ^
+034441 104441 114441 1* ^ 131441 132441 133441 1340* ^ 134241 134341 134401 13*» ^ 134431 134440 134442 134* ^ 134445 134446 134447 1344* ^
 134481 134541 134641 134741 V
 Yirmişer (20) Ura
 134451 134461 134471 l34*°j ^
 
 J844İ
-135441 136441 137441 U-144441  154441 164441 1« 194441 234441  334441 4-»*     ^ tkranıiv<*fr  nerelere  9     J
+135441 136441 137441 U144441  154441 164441 1« 194441 234441  334441 4»*     ^ tkranıiv<*fr  nerelere  9     J
 Bu çekilişin büyük	^
 numaralı   bilet mıştır
 olan 500.000 lirayı Sa^na    „tjr İstanbul cm
@@ -887,8 +887,7 @@ Kütahya.'' Gediz.   Bay dana'da satılmıştır.
 A
 5elwyn Ü<>10\
 ve Yunan Httk,ın,etl..L,^'<1(|l rmrileregl tatarı" edil»  ^ !irtihn&i.ne göre  Y"*8"   ffitf„ „in  Kıbrıs   komıMi"*"1    ^f ., 'enle   yalnız Krbrrtl'1^ rf
-rak  tanımaktan v***f'-nstı*-
-„      fr  vorsiln»'" ' emare oHaıra.K   Kans'
+rak  tanımaktan v***f'nstı*„      fr  vorsiln»'" ' emare oHaıra.K   Kans'
 ro„t «iti.1,1» ^"r
 Lefkoşe. 7   (Ttartyo)        ,;jı ' Valisi  Sir   ITıısh  T'"0'     ^
 ,1»'
@@ -896,7 +895,7 @@ iri*
 Emeçte «MiMetler*^»^ ^en  başarılı semtti** cin   Kıbrıs   halkıt"11
 hafaza etmesınn •> ""
 F.M.f.la Atina >»      , '■*
-rı*   Valisi   Rir W'1»-'"     ^ \><f ^ deki  Pazartesi K»n"       j,»t<*.
+rı*   Valisi   Rir W'1»'"     ^ \><f ^ deki  Pazartesi K»n"       j,»t<*.
 la Leffcosa'daıı  Atin**	j,
 <t* i"
 t»
