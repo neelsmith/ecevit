@@ -35,10 +35,7 @@ object Tokenizer {
 
 
   def subdirs(dir: File): Iterator[File] = {
-    val allKids = dir.listFiles
-    //println("Files in " + dir + ":  " + allKids.size)
     val children = dir.listFiles.filter(_.isDirectory)
-    println ("Dir. children of " + dir + ": " + children)
     children.toIterator ++ children.toIterator.flatMap(subdirs _)
   }
 

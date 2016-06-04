@@ -9,8 +9,9 @@ class  TreeWalkTest extends Specification {
   "A Tokenizer object" should {
     "collect files matching default extension from a given root dir" in {
       val root = new File("src/test/resources")
-      val sub = Tokenizer.collectFiles(root)
-      sub must have size(22)
+      val files = Tokenizer.collectFiles(root)
+
+      files must have size(22)
     }
    }
 
