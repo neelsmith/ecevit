@@ -24,11 +24,15 @@ object Tokenizer {
   }
 
 
-  def tokenizeFiles(fNames : String*):  Array[String] = {
+  def tokenizeFiles(fileList : Array[File]):  Array[String] = {
     val tokens = ArrayBuffer[String]()
-    for (fName <- fNames) {
-      val f = Source.fromFile(fName, "UTF-8")
-      tokens ++= tokenizeFile(f)
+    for (f <- fileList) {
+      try {
+        val src = Source.fromFile(f, "UTF-8")
+        tokens ++= tokenizeFile(src)
+      } catch {
+        case _ : Throwable => println("Failed on file " + f)
+      }
     }
     tokens.toArray[String]
   }
@@ -50,10 +54,6 @@ object Tokenizer {
     files
   }
 
-
-
-
-
   def collectFiles(root: File, extsn: String = ".txt"): Array[File] = {
     val files = ArrayBuffer[File]()
     files ++= Tokenizer.getFilesByExtension(root, extsn)
@@ -63,15 +63,10 @@ object Tokenizer {
     files.toArray
   }
 
-/*
-  def tokenizeFiles(rootDir : File):  Array[String] = {
-    val tokens = ArrayBuffer[String]()
-    for (fName <- fNames) {
-      val f = Source.fromFile(fName, "UTF-8")
-      tokens ++= tokenizeFile(f)
-    }
-    tokens.toArray[String]
-  }*/
-}
+  def tokenizeFileTree(root: File, extsn: String = ".txt"): Array[String] = {
+    // collect files
+    val fileList = collectFiles(root, extsn)
+    tokenizeFiles(fileList)
+  }
 
-//
+}

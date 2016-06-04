@@ -10,7 +10,6 @@ class  TreeWalkTest extends Specification {
     "collect files matching default extension from a given root dir" in {
       val root = new File("src/test/resources")
       val files = Tokenizer.collectFiles(root)
-
       files must have size(22)
     }
    }
@@ -26,7 +25,7 @@ class  TreeWalkTest extends Specification {
 
 
    "A Tokenizer object" should {
-     "retrieve a filelist by default .txt extension" in {
+     "retrieve a file list from a directory by default .txt extension" in {
        val root = new File("src/test/resources")
        val files = Tokenizer.getFilesByExtension(root)
        files must have size(5)
@@ -35,7 +34,7 @@ class  TreeWalkTest extends Specification {
 
 
     "A Tokenizer object" should {
-      "retrieve a filelist by specified extension" in {
+      "retrieve a file list from a directory by specified extension" in {
         val root = new File("src/test/resources")
         val files = Tokenizer.getFilesByExtension(root, ".md")
         files must have size(1)
