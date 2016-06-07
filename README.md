@@ -1,3 +1,5 @@
+# Ecevit journalism
+
 A repository for work with OCR'ed texts of Ecevit's journalism, 1950-1960.
 
 In the `ocr` directory, text files are grouped in subdirectories by year of publication.
