@@ -1,8 +1,10 @@
 Summary of OCR'ed texts currently in this repository:
 
-- 4 years, 1950-1953
-- 84 files, 14 have name with "devamı", so presumably 70 articles
-- 43270 words
-- 16545 distinct words
+- 10 years, 1950-1959
+- 930 files, 122 have name with "devamı", so presumably 808 articles
+- 464663 words
+- 93962 distinct words
+
+
 
 Word frequencies, sorted by total occurrences, are in the file corpus-freqs.csv
