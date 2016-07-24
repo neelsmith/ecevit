@@ -1,17 +1,29 @@
 GÜNÜN IŞIĞINDA
+
 Basının  gelişmesini önleyici bir tedbir
+
 Anonim ve kollektif gazeteciliğin gördüğü rağbet bütün dünyada artmaktadır. Hele Angli-Sakson memleketlerinin en güvenilir, en etkili, en ağırbaşlı gazete ve dergileri, anonim ve kollektif gazeteciliği benimsemiş olanlardır. Buna İngiltere'den örnek olarak The Times, Manchester Guardian, The Scotsman gazetelerini, The Economist, The New Statesman and Nation, Time and Tide ve Speetator dergilerini; Birleşik Amerika'dan örnek olarak ta bütün gazetelerin başyazı sütunlarıyla, Time ve Newsweek gibi bütün dünyaya yaygın dergileri gösterebiliriz.
-Ayrıca, gene İngiltere'de, belli başlı bütün gazetelerin birçok haberleri anonimdir ve kollektif çalışma mahsulüdür. Evening News gibi hafif bir akşam gazetesinde bile muhbirlerin getirdiği, muhabirlerin yazdığı, ajansların yolladığı binlerce haber, 20-30 kişinin birden çalıştığı redaksiyon masasına gelip adeta bir pota içinde eritilir ve gazete sütunlarına ancak, bu potadan süzülmüş haberler geçer. İş bu safhaya geldikten sonra, artık, haberleri kimin verdiği, kimin yazdığı ne sorulur ne bilinir.
-Anonim ve kollektif gazeteciliğin en ileri ve olgun örneği sayılan haftalık The Economist dergisinin yazıları ise, bir ekonomik ve siyasal haberler laboratuvarı diyebileceğimiz geniş teşkilâtlı bir idarehanede hazırlanır. Çeşitli alanlardaki
-uzmanların inceleyip değerlendirdikieri haberler, birçok yazarların müşterek çalışması ile ortaya çıkan makale ve notlara konu olur. Bu yazıların altına imza atılması, veya savcı sorunca bu yazılardan herhangi birini kimin yazdığımın açıklanması imkânsızdır. En uzun makaleden en kısa nota kadar Economist'te çıkan bütün yazılar, derginin damgasını taşır. Okurlar, derginin ne sahip ve başyazarının, ne sorumlu müdürünün, ne yazar ve muhabirlerinin adlarını öğrenebilirler. Başyazarın kim olduğu, ancak, başyazarlıktan ayrılacağı zaman yazacağı imzalı bir veda yazısı ile belli olur. Economistte imzalı çıkabilecek tek yazı, 10-15 yılda bir başyazar değiştikçe yayınlanan bu veda yazısıdır.
-Amerika'da misafir gazeteci olarak 3 ay çalıştığım bir küçük şehir gazetesinde, başyazıları 6 kişilik bir heyet hazırlardı. Bu heyet her sabah toplanıp günün haberlerini beraberce gözden geçirir; başyazılarda ele alınmağa değerli gördüklerini tesbit edip bunlar üzerinde çalışarak bir fikir   beraberliğine varır; sonra, aralarında iş bölümü yaparak hazırladıkları notları akşam üstü bir araya getirip karşılaştırır ve böylece ertesi günün baş yazılarını yazarlardı. Artık bu başyazılardan hangisi kimin kaleminden çıkmıştır, orası sorulmaz, sorulsa bile çoğu zaman  bilinmezdi.
+
+Ayrıca, gene İngiltere'de, belli başlı bütün gazetelerin birçok haberleri anonimdir ve kollektif çalışma mahsulüdür. Evening News gibi hafif bir akşam gazetesinde bile,muhbirlerin getirdiği, muhabirlerin yazdığı, ajansların yolladığı binlerce haber, 20-30 kişinin birden çalıştığı redaksiyon masasına gelip adeta bir pota içinde eritilir ve gazete sütunlarına ancak, bu potadan süzülmüş haberler geçer. İş bu safhaya geldikten sonra, artık, haberleri kimin verdiği, kimin yazdığı ne sorulur ne bilinir.
+
+Anonim ve kollektif gazeteciliğin en ileri ve olgun örneği sayılan haftalık The Economist dergisinin yazıları ise, bir ekonomik ve siyasal haberler laboratuvarı diyebileceğimiz geniş teşkilâtlı bir idarehanede hazırlanır. Çeşitli alanlardaki uzmanların inceleyip değerlendirdikleri haberler, birçok yazarların müşterek çalışması ile ortaya çıkan makale ve notlara konu olur. Bu yazıların altına imza atılması, veya savcı sorunca bu yazılardan herhangi birini kimin yazdığının açıklanması imkânsızdır. En uzun makaleden en kısa nota kadar Economist'te çıkan bütün yazılar, derginin damgasını taşır. Okurlar, derginin ne sahip ve başyazarının, ne sorumlu müdürünün, ne yazar ve muhabirlerinin adlarını öğrenebilirler. Başyazarın kim olduğu, ancak, başyazarlıktan ayrılacağı zaman yazacağı imzalı bir veda yazısı ile belli olur. Economistte imzalı çıkabilecek tek yazı, 10-15 yılda bir başyazar değiştikçe yayınlanan bu veda yazısıdır.
+
+Amerika'da misafir gazeteci olarak 3 ay çalıştığım bir küçük şehir gazetesinde, başyazıları 6 kişilik bir heyet hazırlardı. Bu heyet her sabah toplanıp günün haberlerini beraberce gözden geçirir; başyazılarda ele alınmağa değerli gördüklerini tesbit edip bunlar üzerinde çalışarak bir fikir beraberliğine varır; sonra, aralarında iş bölümü yaparak hazırladıkları notları akşam üstü bir araya getirip karşılaştırır ve böylece ertesi günün baş yazılarını yazarlardı. Artık bu başyazılardan hangisi kimin kaleminden çıkmıştır, orası sorulmaz, sorulsa bile çoğu zaman bilinmezdi.
+
 Bu tarz gazeteciliğin üstünlükleri şöyle sıralanabilir:
-	1. Kötü ve değersiz yazıların, ünlü imzalara sığınarak kendilerini okutabilmesi ve okuyucuya tesir edebilmesi ihtimali önlenmiş olur. Okuyucular imzaya değil yazının değerine göre hüküm verecekleri için, gazete ve dergiler, yazıların kalitesine çok dikkat etmek zorunda kalırlar.
-	2. Yazılar, yalnız eli kalem tutanların değil, çeşitli alanlardaki uzmanların da işbirliğiyle hazırlanır ve ciddi bir çalışma mahsulü olur.
-	3. Yazılar kaleme alınmadan önce ve alındıktan sonra birkaç kişi arasında tartışılmış olacağı için aşırı fikirler yontulmuş, sert ifadeler yumuşatılmış, çelişme ve yanlışlıklar elden  geldiği  kadar  azaltılmış, ve yazılara şahsî duygu ve heyecanların hâkim olması önlenmiş olur.
+	
+1. Kötü ve değersiz yazıların, ünlü imzalara sığınarak kendilerini okutabilmesi ve okuyucuya tesir edebilmesi ihtimali önlenmiş olur. Okuyucular imzaya değil yazının değerine göre hüküm verecekleri için, gazete ve dergiler, yazıların kalitesine çok dikkat etmek zorunda kalırlar.
+	
+2. Yazılar, yalnız eli kalem tutanların değil, çeşitli alanlardaki uzmanların da işbirliğiyle hazırlanır ve ciddi bir çalışma mahsulü olur.
+	
+3. Yazılar kaleme alınmadan önce ve alındıktan sonra birkaç kişi arasında tartışılmış olacağı için aşırı fikirler yontulmuş, sert ifadeler yumuşatılmış, çelişme ve yanlışlıklar elden geldiği kadar azaltılmış, ve yazılara şahsî duygu ve heyecanların hâkim olması önlenmiş olur.
+
 Memleketimizde bu ileri ve olgun gazetecilik tarzı, yeni yeni, birkaç siyaset ve iktisat dergisinde uygulanmağa başlamış, ve bu dergiler 2-3 yıl içinde, Türkiye'nin basın ve fikir hayatında adetâ bir devrim yapmışlardır.
+
 Şimdi, iktidarın Basın Kanununa eklediği yeni bir fıkra, bu tarz gazeteciliğin memleketimizde gelişme, hattâ belki yaşama imkânlarını sona erdirmektedir. 19 uncu maddenin 2'inci fıkrası gereğince artık Türkiye'de anonim ve kollektif gazetecilik serbestçe yapılamıyacaktıır. Çünkü savcılar, imzasız bir haber veya yazıyı kimin yazdığını sordukları zaman, sorumlu müdür bunu açıklamak zorunda kalacaktır.
+
 Türkiye'de gazeteciliğin seviyesini yükseltmek gerekçesiyle kanunlara eklenen yeni hükümlerin, gerçekte aksi sonuçlar vereceğine, kendi sanımızca ,en kuvvetli delillerden biri budur.
-19'uncu maddenin 2inci fıkrası, sır saklamayı yasak etmekle, gazeteciliğin bir meslek prensipini zedeliyeceği ve gazetelerin haberalma hürriyetini sona erdireceği gibi, anonim ve kollektif gazeteciliği imkânsız hale getirmekle de, aynı zamanda, gazeteciliğin iyi bir yolda gelişmesini önlemiş  olacaktır.
+
+19'uncu maddenin 2inci fıkrası, sır saklamayı yasak etmekle, gazeteciliğin bir meslek prensipini zedeliyeceği ve gazetelerin haberalma hürriyetini sona erdireceği gibi, anonim ve kollektif gazeteciliği imkânsız hale getirmekle de, aynı zamanda, gazeteciliğin iyi bir yolda gelişmesini önlemiş olacaktır.
 
 Bülent ECEVİT
