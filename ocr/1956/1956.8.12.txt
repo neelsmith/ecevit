@@ -1,20 +1,38 @@
 GÜNÜN IŞIĞINDA
-" Kahramanlık " tan kurtulma   yolları
-Son zamanlarda memleketimizde garip bir tartışıma konusU ortaya çıktı; gündelik gazetelerden edebiyat dergilerine kadar her yerde bu tartışılıyor: Kahraman olmalı mı, olmamalı mı?..
+
+" Kahramanlık " tan kurtulma yolları
+
+Son zamanlarda memleketimizde garip bir tartışma konusU ortaya çıktı; gündelik gazetelerden edebiyat dergilerine kadar her yerde bu tartışılıyor: Kahraman olmalı mı, olmamalı mı?..
+
 Bu, şüphesiz, içinde bulunduğumuz şartların ortaya çıkardığı bir mesele. El sıkmak, yolda yürümek, birkaç kişi bir arada konuşmak, beğendiği bir konuşmayı alkışlamak gibi. İnsan Hakları arasında sayılmasına bile lüzum görülmeyecek kadar tabiî bazı hareketlerin faillerini tehlikeli duruma düşürecek, bu kadar tabiî hareketleri bile kahramanlık gibi gösterecek şartlar altında kalmış olmasaydık, kahraman olup olmamak meselesi herhalde aktüel bir tartışma konusu haline gelmezdi.
+
 İngiliz İşçi Partisinin bir kongresinde Mr. Gaitskell'i alkışlayan delegelere:
+
 — Bravo, bir muhalefet liderini alkışlamakla birer kahraman olduğunuzu gösterdiniz, denilse, insanın aklından zoru olduğuna inanırlar.
+
 Ama aynı sözleri Türkiye'deki bir muhalefet partisi kongresinin delegelerine söyliyecek olsanız, hiç kimse sizi aklından zoru olan bir kimse sayamaz; tersine, bu sözünüz çok yerinde bulunur.
-Bu durumda, Türkiye'de bilfiil demokrasi mücadelesi yapmak gerçekten çok güçleşmlş oluyor.
-Ancak, bu mücadele bilfiil katılmadan,  ona bilfiil  katılacak kadar «kahramanlık» göstermeden de, mücadeleyi desteklemek kabildir.
-«Kahramanlık» tan ne kadar kaçınırsa kaçınsın, her vatandaş, demokrasinin tutunabilmesi için gerekli manevi şartlardan hiç değilse bazısının gerçekleşmesine  yardım  edebilir.
-Meselâ, demokrasi mûcadelesine, maddî, manevî hiç bir zarara uğramaksızın, karınca kararınca da olsa hizmet etmek isteyen bir vatandaş, demokrasinin serbest tartışma rejimi olduğunu düşünerek, kendi çevresinde serbest tartışma alışkanlığını yerleştirmeğe çalışabilir Öğretmense öğrencilerni, memursa maiyetini, patronsa işçilerini, babaysa çocuklarını kendisiyle serbestçe, korkusuzca tartışmağa, ne kadar aykırı da olsa düşüncelerini karşısında rahatça, cezalandırılma korkusu duymaksızın söyleyip savunmağa teşvik edebilir.
-Demokrasi serbest tartışma rejimi olduğu kadar, herkesin eşit muamele gördüğü durumu, mevkii ne olursa olsun eşit ölçüde saygı gördüğü bir rejimdir de. Onun için demokrasiye hizmet etmek isteyen bir vatandaş, çevresindeki insanlara davranışı ve hitap tarzıyla, onlara eşitlik duygusu aşılamağa çalışabilir. Meselâ, demokratik bir toplumda insanların biribirlerine hitaplarını,   bir   «efendi-bay-bey-beyefendi» hiyerarşisine uydurmaları yakışık almıyacağına göre, mevkileri ne olursa olsun, çevresindeki bütün insanlara bunlardan yalnız biriyle hitab edebilir. Amirine «beyefendi» derken odacısına «efendi» demek alışkanlığından kendi kendini kurtarmağa çalışabilir.
+
+Bu durumda, Türkiye'de bilfiil demokrasi mücadelesi yapmak gerçekten çok güçleşmiş oluyor.
+
+Ancak, bu mücadele bilfiil katılmadan, ona bilfiil katılacak kadar «kahramanlık» göstermeden de, mücadeleyi desteklemek kabildir.
+
+«Kahramanlık» tan ne kadar kaçınırsa kaçınsın, her vatandaş, demokrasinin tutunabilmesi için gerekli manevi şartlardan hiç değilse bazısının gerçekleşmesine yardım edebilir.
+
+Meselâ, demokrasi mücadelesine, maddî, manevî hiç bir zarara uğramaksızın, karınca kararınca da olsa hizmet etmek isteyen bir vatandaş, demokrasinin serbest tartışma rejimi olduğunu düşünerek, kendi çevresinde serbest tartışma alışkanlığını yerleştirmeğe çalışabilir Öğretmense öğrencilerni, memursa maiyetini, patronsa işçilerini, babaysa çocuklarını kendisiyle serbestçe, korkusuzca tartışmağa, ne kadar aykırı da olsa düşüncelerini karşısında rahatça, cezalandırılma korkusu duymaksızın söyleyip savunmağa teşvik edebilir.
+
+Demokrasi serbest tartışma rejimi olduğu kadar, herkesin eşit muamele gördüğü durumu, mevkii ne olursa olsun eşit ölçüde saygı gördüğü bir rejimdir de. Onun için demokrasiye hizmet etmek isteyen bir vatandaş, çevresindeki insanlara davranışı ve hitap tarzıyla, onlara eşitlik duygusu aşılamağa çalışabilir. Meselâ, demokratik bir toplumda insanların biribirlerine hitaplarını, bir «efendi-bay-bey-beyefendi» hiyerarşisine uydurmaları yakışık almıyacağına göre, mevkileri ne olursa olsun, çevresindeki bütün insanlara bunlardan yalnız biriyle hitab edebilir. Amirine «beyefendi» derken odacısına «efendi» demek alışkanlığından kendi kendini kurtarmağa çalışabilir.
+
 Demokrasi, askerlik dışında her türlü hizmetin ihtiyarî olduğu rejimdir. Onun için, memlekette demokrasinin yerleşmesini kolaylaştırmak isteyen vatandaş, emir sıygısını tamamile unutup, kendini, küçük çocuğundan hizmetçisine kadar herkese rica yoluyla iş yaptırmağa alıştırabilir.
+
 Bu saydıklarımızdan herhangi birini yapabilmek için kahraman olmak gerekmez. Kendini biraz zora sokup da kötü alışkanlıklarından kurtulabilecek kadar irade gücü olan bir kimse, bütün bu saydıklarımızı kolayca yapabilir.
-Türkiye'de demokrasinin yerleşebilmesini  güçleştiren  etkenlerin başında kahramanların azlığı değil, özel münasebetlerimizdeki anti-demokratik alışkanlıklarımız gelmektedir. Bu alışkanlıklardan kendimizi ve çevremizi kurtardıkça, Türkiye'de, serbest tartışmayı, düşüncelerini herkese karşı korkusuzca söyleyip savunmayı son derecede tabiî bir hak sayan; insan olarak kendini, rütbesi, mevkii ne olursa olsun, herkesle bir tutan; hizmeti, bir kölelik yükü değil, ihtiyarî bir görev sayan kimselerin sayısı gitgide artacaktır.
+
+Türkiye'de demokrasinin yerleşebilmesini güçleştiren etkenlerin başında kahramanların azlığı değil, özel münasebetlerimizdeki anti-demokratik alışkanlıklarımız gelmektedir. Bu alışkanlıklardan kendimizi ve çevremizi kurtardıkça, Türkiye'de, serbest tartışmayı, düşüncelerini herkese karşı korkusuzca söyleyip savunmayı son derecede tabiî bir hak sayan; insan olarak kendini, rütbesi, mevkii ne olursa olsun, herkesle bir tutan; hizmeti, bir kölelik yükü değil, ihtiyarî bir görev sayan kimselerin sayısı gitgide artacaktır.
+
 Özel münasebetlerinde bu türlü davranışa alışan, başka türlü davranışı gayrı tabiî sayar hale gelen kimselerin sayısı arttıkça da, her türlü siyasal baskıya karşı memlekette tabiî bir mukavemet ortaya çıkacaktır.
+
 Demokratik mücadele ancak o zaman bir kahramanlık meselesi olmaktan kurtulacak, nasıl denizde boğulmamak için dalgalarla boğuşmak bir kahramanlık değil de tabiî bir tepki sayılırsa, siyasal baskıya mukavemet de o derece tabiî bir tepki haline gelecektir.
+
 Yoksa, kendi özel münasebetlerinde ezmeğe ve ezilmeğe, emredip emir almağa, farklı muamelede bulunup farklı muamele görmeğe alışık bulunan insanlar için demokrasi mücadelesi elbette zoraki bir kahramanlıktan başka bir şey olamaz, ve öyle insanlar arasından, demok rasi mücadelesi için, elbette yeteri kadar gönüllü bulunamaz.
+
 Bülent ECEVİT
 
