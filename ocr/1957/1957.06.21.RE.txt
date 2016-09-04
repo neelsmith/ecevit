@@ -1,101 +1,105 @@
 UZAKTAN
 
-“ Mustafa gitti, umut bitti „ mi ?.
+â€œ Mustafa gitti, umut bitti â€ mi ?.
    
-GEREK Türkler gerek Osmanlı Devleti içindeki başka topluluklar, Kanunî Sultan Süleyman’ın büyük oğlu Mustafa’ya büyük umutlar bağlamışlardı. Süleyman’ın sağlam temeller üzerine oturtmağa çalıştığı, dinleri, dilleri ne olursa olsun bütün uyruklar arasında eşitlik gözeten âdil devlet düzenini ancak Mustafa’nın yaşatabileceğine, hattâ babasının açtığı yolda ondan daha da ileri gideceğine, çünkü Rüstem Paşa gibi menfaatçi ve entrikacı vezirlerin, Hürrem Sultan gibi muhteris saray kadınlarının, ve günden güne nüfuzu artarak açık düşünceli ulemayı sindirmeğe başlıyan mutaassıp din adamlarının etkisine babası kadar kanılmıyacağına inanıyorlardı. 
+GEREK TÃ¼rkler gerek OsmanlÄ± Devleti iÃ§indeki baÅŸka topluluklar, KanunÃ® Sultan SÃ¼leymanâ€™Ä±n bÃ¼yÃ¼k oÄŸlu Mustafaâ€™ya bÃ¼yÃ¼k umutlar baÄŸlamÄ±ÅŸlardÄ±. SÃ¼leymanâ€™Ä±n saÄŸlam temeller Ã¼zerine oturtmaÄŸa Ã§alÄ±ÅŸtÄ±ÄŸÄ±, dinleri, dilleri ne olursa olsun bÃ¼tÃ¼n uyruklar arasÄ±nda eÅŸitlik gÃ¶zeten Ã¢dil devlet dÃ¼zenini ancak Mustafaâ€™nÄ±n yaÅŸatabileceÄŸine, hattÃ¢ babasÄ±nÄ±n aÃ§tÄ±ÄŸÄ± yolda ondan daha da ileri gideceÄŸine, Ã§Ã¼nkÃ¼ RÃ¼stem PaÅŸa gibi menfaatÃ§i ve entrikacÄ± vezirlerin, HÃ¼rrem Sultan gibi muhteris saray kadÄ±nlarÄ±nÄ±n, ve gÃ¼nden gÃ¼ne nÃ¼fuzu artarak aÃ§Ä±k dÃ¼ÅŸÃ¼nceli ulemayÄ± sindirmeÄŸe baÅŸlÄ±yan mutaassÄ±p din adamlarÄ±nÄ±n etkisine babasÄ± kadar kanÄ±lmÄ±yacaÄŸÄ±na inanÄ±yorlardÄ±. 
 
-Türkleri Avrupa içinde yabancı durumunda kalmaktan belki ancak o kurtarabilecekti. Aradıkları güvenliği kendi dindaşlarından çok Süleyman'ın idaresi altında bulabilmiş birçok hıristîyan ve Musevî topluluklar bu güvenliklerinin devamını ve sağlamlaştırılmasını Mustafa’dan bekliyorlardı. O çağın siyasal düşünür ve denetleyicileri durumunda bununan sözünü sakınmaz şairlerle uyanık din bilginleri, özledikleri gerçek düşünce ve ifade hürriyetine kavuşabilmek için bütün umutlarını Mustafa’nın gün gelip tahta geçmesine bağlamışlardı.
+TÃ¼rkleri Avrupa iÃ§inde yabancÄ± durumunda kalmaktan belki ancak o kurtarabilecekti. AradÄ±klarÄ± gÃ¼venliÄŸi kendi dindaÅŸlarÄ±ndan Ã§ok SÃ¼leyman'Ä±n idaresi altÄ±nda bulabilmiÅŸ birÃ§ok hÄ±ristÃ®yan ve MusevÃ® topluluklar bu gÃ¼venliklerinin devamÄ±nÄ± ve saÄŸlamlaÅŸtÄ±rÄ±lmasÄ±nÄ± Mustafaâ€™dan bekliyorlardÄ±. O Ã§aÄŸÄ±n siyasal dÃ¼ÅŸÃ¼nÃ¼r ve denetleyicileri durumunda bununan sÃ¶zÃ¼nÃ¼ sakÄ±nmaz ÅŸairlerle uyanÄ±k din bilginleri, Ã¶zledikleri gerÃ§ek dÃ¼ÅŸÃ¼nce ve ifade hÃ¼rriyetine kavuÅŸabilmek iÃ§in bÃ¼tÃ¼n umutlarÄ±nÄ± Mustafaâ€™nÄ±n gÃ¼n gelip tahta geÃ§mesine baÄŸlamÄ±ÅŸlardÄ±.
   
-Fakat, Rüstem Paşa’nın Hürrem Sultanın ve saray çevresinde tutuuabilmek bazı yobaz sözde din adamlarının menfaat ve ihtirasları önünde çetin bir engel olarak yükselmekle, Mustafa, onların düşmanlığını üzerine çekmişti. Onlar, türlü yalan ve düzenlerle Süleyman’ı Mustafa’ya karşı kışkırtmağa, Süleyman’ın elini bütün Osmanlı halkınca büyük umutlar bağlanmış olan büyük oğlunun kanına bulamağa çalışmış, sonunda da bunu başarmışlardır.
+Fakat, RÃ¼stem PaÅŸaâ€™nÄ±n HÃ¼rrem Sultan,Ä±n ve saray Ã§evresinde tutunabilmesi bazÄ± yobaz sÃ¶zde din adamlarÄ±nÄ±n menfaat ve ihtiraslarÄ± Ã¶nÃ¼nde Ã§etin bir engel olarak yÃ¼kselmekle, Mustafa, onlarÄ±n dÃ¼ÅŸmanlÄ±ÄŸÄ±nÄ± Ã¼zerine Ã§ekmiÅŸti. Onlar, tÃ¼rlÃ¼ yalan ve dÃ¼zenlerle SÃ¼leymanâ€™Ä± Mustafaâ€™ya karÅŸÄ± kÄ±ÅŸkÄ±rtmaÄŸa, SÃ¼leymanâ€™Ä±n elini bÃ¼tÃ¼n OsmanlÄ± halkÄ±nca bÃ¼yÃ¼k umutlar baÄŸlanmÄ±ÅŸ olan bÃ¼yÃ¼k oÄŸlunun kanÄ±na bulamaÄŸa Ã§alÄ±ÅŸmÄ±ÅŸ, sonunda da bunu baÅŸarmÄ±ÅŸlardÄ±r.
   
-İngiliz şair ve tiyatro yazarı David Mallet’in, 18 nci yüzyılda yazdığı ve Londra'da sahneye koydurduğu «Mustafa» adlı trajedide, Rüstem Paşa ile bir müftü, Süleyman’ı Mustafa’ya karşı kışkırtmak için ilk teşebbüsleri başarısızlığa uğradıktan sonra yeni bazı tertipler düşünürler. O sırada aralarında şu konuşma geçer:
+Ä°ngiliz ÅŸair ve tiyatro yazarÄ± David Malletâ€™in, 18 nci yÃ¼zyÄ±lda yazdÄ±ÄŸÄ± ve Londra'da sahneye koydurduÄŸu Â«MustafaÂ» adlÄ± trajedide, RÃ¼stem PaÅŸa ile bir mÃ¼ftÃ¼, SÃ¼leymanâ€™Ä± Mustafaâ€™ya karÅŸÄ± kÄ±ÅŸkÄ±rtmak iÃ§in ilk teÅŸebbÃ¼sleri baÅŸarÄ±sÄ±zlÄ±ÄŸa uÄŸradÄ±ktan sonra yeni bazÄ± tertipler dÃ¼ÅŸÃ¼nÃ¼rler. O sÄ±rada aralarÄ±nda ÅŸu konuÅŸma geÃ§er:
 
-MÜFTÜ
+MÃœFTÃœ
 
-Yeni bir suçla itham edeceğim onu ben
+Yeni bir suÃ§la itham edeceÄŸim onu ben
 
-Başka suçlarından da ağır basacaktır bu
+BaÅŸka suÃ§larÄ±ndan da aÄŸÄ±r basacaktÄ±r bu
 
-Dindarlığını tahrik edersek Padişahın:
+DindarlÄ±ÄŸÄ±nÄ± tahrik edersek PadiÅŸahÄ±n:
 
-İymansızın biridir o Şehzade Mustafa!
+Ä°ymansÄ±zÄ±n biridir o Åehzade Mustafa!
 
-RÜSTEM
 
-Aman anlatın şunu, su serptiniz içime.
+RÃœSTEM
 
-MÜFTÜ
+Aman anlatÄ±n ÅŸunu, su serptiniz iÃ§ime.
 
-Bir gün din ateşiyle yanıyordu yüreğim,
 
-Ülkemizi kirleten o din düşmanlarına,
+MÃœFTÃœ
 
-Hıristiyan ve Musevi tebaaya kızmıştım.
+Bir gÃ¼n din ateÅŸÄ±yle yanÄ±yordu yÃ¼reÄŸim,
 
-Kandırayım da dedim Şehzadeyi, kışkırtsın,
+Ãœlkemizi kirleten o din dÃ¼nmanlarÄ±na,
 
-Padişahı, kılıçtan geçirsin her kâfiri.
+HÄ±ristiyan ve Musevi tebaaya kÄ±zmÄ±ÅŸtÄ±m.
+
+KandÄ±rayÄ±m da dedim Åehzadeyi, kÄ±ÅŸkÄ±rtsÄ±n.
+
+PadiÅŸahÄ±, kÄ±lÄ±Ã§tan geÃ§irsin her kÃ¢firi.
 
 Ne cevap verdi bana dersiniz?
 
-RÜSTEM	
+
+RÃœSTEM	
 
 Eminim ki
 
-Cüretkâr bir cevaptır.	
+CÃ¼retkÃ¢r bir cevaptÄ±r.	
  
-MÜFTÜ
 
-En günahkâr bir cevap!
+MÃœFTÃœ
 
-Önümüzde uzanan türlü türlü çiçekle,
+En gÃ¼nahkÃ¢r bir cevap!
 
-Bezenmiş bir ovayı gösterip te dedi ki:
+Ã–nÃ¼mÃ¼zde uzanan tÃ¼rlÃ¼ tÃ¼rlÃ¼ Ã§iÃ§ekle,
 
-«Su çeşitliliğini görüp te tabiatın 
+BezenmiÅŸ bir ovayÄ± gÃ¶sterip te dedi ki:
 
-«Hayran olmamak elde mi ? Nasıl okşuyor bak. 
+Â«Su Ã§eÅŸitliliÄŸini gÃ¶rÃ¼p te tabiatÄ±n 
 
-«Duyularımızı bu binlerce kokuyla renk! 
+Â«Hayran olmamak elde mi ? NasÄ±l okÅŸuyor bak. 
 
-«Onlar açsın diye doğan güneş, yağan rahmet. 
+Â«DuyularÄ±mÄ±zÄ± bu binlerce kokuyla renk! 
 
-«Bir ayrılık gözetir mi hiç aralarında?
+Â«Onlar aÃ§sÄ±n diye doÄŸan gÃ¼neÅŸ, yaÄŸan rahmet. 
 
-«Buna karşı onlar da buhurdandan yükselen
+Â«Bir ayrÄ±lÄ±k gÃ¶zetir mi hiÃ§ aralarÄ±nda?
 
-«Şükran yüklü bir adak gibi sunarlar göğe, 
+Â«Buna karÅŸÄ± onlar da buhurdandan yÃ¼kselen
 
-«Tek bir demet gibi kaynaşan kokularını.
+Â«ÅÃ¼kran yÃ¼klÃ¼ bir adak gibi sunarlar gÃ¶ÄŸe, 
 
-«Fikir ayrılığı da böyle olsa gerektir.
+Â«Tek bir demet gibi kaynaÅŸan kokularÄ±nÄ±.
 
-«Faydası var, zararı yoktur biribirine,
+Â«Fikir ayrÄ±lÄ±ÄŸÄ± da bÃ¶yle olsa gerektir.
 
-«Ayrı düşüncelerine yeterki sahipleri, 
+Â«FaydasÄ± var, zararÄ± yoktur biribirine,
 
-«İyi tebaa olsun dA dostça geçinsinler,
+Â«AyrÄ± dÃ¼ÅŸÃ¼ncelerine yeterki sahipleri, 
 
-«Yeter ki topluluğa hizmet etsin her biri, 
+Â«Ä°yi tebaa olsun da dostÃ§a geÃ§insinler,
 
-«Kanunlara saygılı, hakana bağlı olsun !»	
+Â«Yeter ki topluluÄŸa hizmet etsin her biri, 
 
-İşte böyle konuştu, sonra çatıp kaşını,
+Â«Kanunlara saygÄ±lÄ±, hakana baÄŸlÄ± olsun!Â»	
 
-Hiddetli bakışlarla bıraktı gitti beni. 
+Ä°ÅŸte bÃ¶yle konuÅŸtu, sonra Ã§atÄ±p kaÅŸÄ±nÄ±,
 
-«Kâfir »damgasını, yurttaşları biribirine düşürebilecek ayırıcı bir silâh olarak kendi tasavvurlarına alet eden bir sözde din adamının Büyük Millet Meclisinde tartışılan sözlerini okurken, İngiliz şairinin bu mısraları aklıma geldi.
+Hiddetli bakÄ±ÅŸlarla bÄ±raktÄ± gitti beni. 
+
+Â«KÃ¢fir Â»damgasÄ±nÄ±, yurttaÅŸlarÄ± biribirine dÃ¼ÅŸÃ¼rebilecek ayÄ±rÄ±cÄ± bir silÃ¢h olarak kendi tasavvurlarÄ±na alet eden bir sÃ¶zde din adamÄ±nÄ±n BÃ¼yÃ¼k Millet Meclisinde tartÄ±ÅŸÄ±lan sÃ¶zlerini okurken, Ä°ngiliz ÅŸairinin bu mÄ±sralarÄ± aklÄ±ma geldi.
   
-Şehzade Mustafa hayatında bu sözleri gerçekten kelimesi kelimesine söylemiş miydi bilmiyoruz ama, onun böyle düşünen ve böyle konuşabilecek bir insan olduğunu biliyoruz. Üzerinde durulmaya değer olan nokta da, 18’inci yüzyılda bir İngiliz şairinin, bu derece geniş görüşlülük ifade eden sözleri, 16’ıncı yüzyılda yaşamış nice Hristiyan prens ve kralın değil de, ancak bu Türk Şehzadesinin ağzına yakıştırabilmiş olmasıdır.
+Åehzade Mustafa hayatÄ±nda bu sÃ¶zleri gerÃ§ekten kelimesi kelimesine sÃ¶ylemiÅŸ miydi bilmiyoruz ama, onun bÃ¶yle dÃ¼ÅŸÃ¼nen ve bÃ¶yle konuÅŸabilecek bir insan olduÄŸunu biliyoruz. Ãœzerinde durulmaya deÄŸer olan nokta da, 18â€™inci yÃ¼zyÄ±lda bir Ä°ngiliz ÅŸairinin, bu derece geniÅŸ gÃ¶rÃ¼ÅŸlÃ¼lÃ¼k ifade eden sÃ¶zleri, 16â€™Ä±ncÄ± yÃ¼zyÄ±lda yaÅŸamÄ±ÅŸ nice Hristiyan prens ve kralÄ±n deÄŸil de, ancak bu TÃ¼rk Åehzadesinin aÄŸzÄ±na yakÄ±ÅŸtÄ±rabilmiÅŸ olmasÄ±dÄ±r.
   
-Değişik inançlarda insanlardan meydana gelen ve Hristiyan dünyası karşısında adalet, eşitlik ve müsamahanın bir sembolü gibi yükselen, o kadar ki, Papalığın baskısına ve dar görüşlülüğüne karşı savaş açmış Hristiyan devrimcisi Lüter’e bile Orta Avrupa kiliselerinde, «Türklere karşı kılıç çekmek, Tanrının iradesine karşı gelmektir» diye haykırmayı ilham eden Osmanlı Devletini, «kâfir» sözü ardındaki dar görüşlü, ayırıcı zihniyetin, nasıl bir karanlığa, uçuruma ve nihayet yıkıntıya sürüklediğini, bir yobaz din adamının Rüstem Paşa ile arasında geçen bu hayalî fakat hayalî olmakla beraber o çağların gerçeklerini sadakatle yansıtan konuşmada görmek mümkün olsa gerektir. Nitekim, Süleyman’ın eli, ileri düşünceli, geniş görüşlü büyük oğlunun kanına bulandıktan sonra, Türk halkı, «Mustafa gitti, umut bitti» diye yerinip gözyaşı dökmekle, Osmanlı Devletini ne kadar karanlık bir sonun beklediğini, bundan dört yüz yıl önce sezmişti.	
+DeÄŸiÅŸik inanÃ§larda insanlardan meydana gelen ve Hristiyan dÃ¼nyasÄ± karÅŸÄ±sÄ±nda adalet, eÅŸitlik ve mÃ¼samahanÄ±n bir sembolÃ¼ gibi yÃ¼kselen, o kadar ki, PapalÄ±ÄŸÄ±n baskÄ±sÄ±na ve dar gÃ¶rÃ¼ÅŸlÃ¼lÃ¼ÄŸÃ¼ne karÅŸÄ± savaÅŸ aÃ§mÄ±ÅŸ Hristiyan devrimcisi LÃ¼terâ€™e bile Orta Avrupa kiliselerinde, Â«TÃ¼rklere karÅŸÄ± kÄ±lÄ±Ã§ Ã§ekmek, TanrÄ±nÄ±n iradesine karÅŸÄ± gelmektirÂ» diye haykÄ±rmayÄ± ilham eden OsmanlÄ± Devletini, Â«kÃ¢firÂ» sÃ¶zÃ¼ ardÄ±ndaki dar gÃ¶rÃ¼ÅŸlÃ¼, ayÄ±rÄ±cÄ± zihniyetin, nasÄ±l bir karanlÄ±ÄŸa, uÃ§uruma ve nihayet yÄ±kÄ±ntÄ±ya sÃ¼rÃ¼klediÄŸini, bir yobaz din adamÄ±nÄ±n RÃ¼stem PaÅŸa ile arasÄ±nda geÃ§en bu hayalÃ® fakat hayalÃ® olmakla beraber o Ã§aÄŸlarÄ±n gerÃ§eklerini sadakatle yansÄ±tan konuÅŸmada gÃ¶rmek mÃ¼mkÃ¼n olsa gerektir. Nitekim, SÃ¼leymanâ€™Ä±n eli, ileri dÃ¼ÅŸÃ¼nceli, geniÅŸ gÃ¶rÃ¼ÅŸlÃ¼ bÃ¼yÃ¼k oÄŸlunun kanÄ±na bulandÄ±ktan sonra, TÃ¼rk halkÄ±, Â«Mustafa gitti, umut bittiÂ» diye yerinip gÃ¶zyaÅŸÄ± dÃ¶kmekle, OsmanlÄ± Devletini ne kadar karanlÄ±k bir sonun beklediÄŸini, bundan dÃ¶rt yÃ¼z yÄ±l Ã¶nce sezmiÅŸti.	
   
-Şehzade Mustafa’nın vakitsiz gidişiyle biten umutlar, Türk milleti için ancak dört yüz yıl kadar sonra bir başka Mustafa’nın, Mustafa Kemal’in gelişiyle yeniden dirilebilmiştir.
+Åehzade Mustafaâ€™nÄ±n vakitsiz gidiÅŸiyle biten umutlar, TÃ¼rk milleti iÃ§in ancak dÃ¶rt yÃ¼z yÄ±l kadar sonra bir baÅŸka Mustafaâ€™nÄ±n, Mustafa Kemalâ€™in geliÅŸiyle yeniden dirilebilmiÅŸtir.
    
-Fakat ne acıdır ki, Osmanlı çağında tebaayı tebaaya karşı kışkırtarak, bu sağlam yapılı, bu eşitlik ve adalet temelleri üzerine kurulu Devletin topraklarına «kâfir» sözüyle ayrılık tohumları ekmiş olan yobazlar, Cumhuriyet Türkiyesi çok partili hayata geçtikten sonra da yurttaşlar arasına aynı ayrtlık tohumlarını ekme fırsatını bulmuşlardır. Hem bu sefer bu tohumlar müslüman hristiyan farkı da gözetilmeksizin ekilmek istenmektedir.
+Fakat ne acÄ±dÄ±r ki, OsmanlÄ± Ã§aÄŸÄ±nda tebaayÄ± tebaaya karÅŸÄ± kÄ±ÅŸkÄ±rtarak, bu saÄŸlam yapÄ±lÄ±, bu eÅŸitlik ve adalet temelleri Ã¼zerine kurulu Devletin topraklarÄ±na Â«kÃ¢firÂ» sÃ¶zÃ¼yle ayrÄ±lÄ±k tohumlarÄ± ekmiÅŸ olan yobazlar, Cumhuriyet TÃ¼rkiyesi Ã§ok partili hayata geÃ§tikten sonra da yurttaÅŸlar arasÄ±na aynÄ± ayrÄ±lÄ±k tohumlarÄ±nÄ± ekme fÄ±rsatÄ±nÄ± bulmuÅŸlardÄ±r. Hem bu sefer bu tohumlar mÃ¼slÃ¼man - hristiyan farkÄ± da gÃ¶zetilmeksizin ekilmek istenmektedir.
 
-Gerçi onlara bu fırsatı verenler, Meclise getirilen af teklifini reddetmekle, hatalarını biraz olsun tamire çalışmışlardır ama, düşünce ayrılığı konusunda, bir İngiliz şairinin kaleminde dile gelen Şehzade Mustafa’nin geniş görüşlülüğüne erişebilmeleri için daha pek çok yol aşmaları gereklidir. Gene ne mutlu ki Türk ulusuna, birkaç hafta önce Meclis kürsüsünde Rüstem Paşayı, bir kaç gün önce de yobazları savunan siyaset adamlarına karşı Mustafa Kemal’in eserlerini savunacak ve yaşatacak kimseler çıkmaktadır.
+GerÃ§i onlara bu fÄ±rsatÄ± verenler, Meclise getirilen af teklifini reddetmekle, hatalarÄ±nÄ± biraz olsun tamire Ã§alÄ±ÅŸmÄ±ÅŸlardÄ±r ama, dÃ¼ÅŸÃ¼nce ayrÄ±lÄ±ÄŸÄ± konusunda, bir Ä°ngiliz ÅŸairinin kaleminde dile gelen Åehzade Mustafaâ€™nin geniÅŸ gÃ¶rÃ¼ÅŸlÃ¼lÃ¼ÄŸÃ¼ne eriÅŸebilmeleri iÃ§in daha pek Ã§ok yol aÅŸmalarÄ± gereklidir. Gene ne mutlu ki TÃ¼rk ulusuna, birkaÃ§ hafta Ã¶nce Meclis kÃ¼rsÃ¼sÃ¼nde RÃ¼stem PaÅŸayÄ±, bir kaÃ§ gÃ¼n Ã¶nce de yobazlarÄ± savunan siyaset adamlarÄ±na karÅŸÄ± Mustafa Kemalâ€™in eserlerini savunacak ve yaÅŸatacak kimseler Ã§Ä±kmaktadÄ±r.
    
-Türk halkı için, Şehzade Mustafa’nın gidişiyle umut bitmişti ama, Mustafa Kemal’in gidişiyle umut bitmiş değildir. Ancak, Türk halkına doğan bu yeni umudu yaşatabilmek için, bir İngiliz şairinin, düşünce ayrılığı konusunda, 16’ıncı yüzyılda yasamış bir Türk Şehzadesine söylettiği sözleri, yalnız «hakan» kelimesi «devlet» e çevrilerek, bugün de bazı siyaset adamlarının zihinlerine işliyebilmek gereklidir:
+TÃ¼rk halkÄ± iÃ§in, Åehzade Mustafaâ€™nÄ±n gidiÅŸiyle umut bitmiÅŸti ama, Mustafa Kemalâ€™in gidiÅŸiyle umut bitmiÅŸ deÄŸildir. Ancak, TÃ¼rk halkÄ±na doÄŸan bu yeni umudu yaÅŸatabilmek iÃ§in, bir Ä°ngiliz ÅŸairinin, dÃ¼ÅŸÃ¼nce ayrÄ±lÄ±ÄŸÄ± konusunda, 16â€™Ä±ncÄ± yÃ¼zyÄ±lda yasamÄ±ÅŸ bir TÃ¼rk Åehzadesine sÃ¶ylettiÄŸi sÃ¶zleri, yalnÄ±z Â«hakanÂ» kelimesi Â«devletÂ» e Ã§evrilerek, bugÃ¼n de bazÄ± siyaset adamlarÄ±nÄ±n zihinlerine iÅŸliyebilmek gereklidir:
 
 *
